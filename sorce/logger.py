@@ -35,6 +35,9 @@ lg.getLogger('').addHandler(console_log)
 logger1 = lg.getLogger('Nasir')
 
 
+logger1.info("Starting")
+
+
 
 
 

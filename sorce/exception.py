@@ -1,4 +1,5 @@
 import sys
+from sorce.logger import logger1
 
 
 def error_message_detail(error,error_detail:sys):
@@ -20,5 +21,11 @@ class CustomException(Exception):
         return self.error_message
     
     
-    
+if __name__ == "__main__":
+    try:
+        a = 1/0
+    except Exception as e:
+        logger1.error("Divided by zero error")
+        raise CustomException(e,sys)
+
 
