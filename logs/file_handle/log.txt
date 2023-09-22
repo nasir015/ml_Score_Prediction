@@ -1,1 +1,2 @@
 [2023-09-22 18:18:41,738] 37 Nasir - INFO - Starting
+[2023-09-22 18:31:39,727] 37 Nasir - INFO - error occured

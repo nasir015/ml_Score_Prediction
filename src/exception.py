@@ -1,5 +1,5 @@
 import sys
-from src.logger import logger
+from logger import logger
 
 
 def error_message_detail(error,error_detail:sys):
@@ -25,7 +25,7 @@ if __name__ == "__main__":
     try:
         a = 1/0
     except Exception as e:
-        logger('log\\file_handle\\log.txt','error occured')
+        logger('logs\\file_handle\\log.txt','error occured')
         raise CustomException(e,sys)
 
 
