@@ -1,5 +1,5 @@
 import sys
-from sorce.logger import logger1
+from src.logger import logger1
 
 
 def error_message_detail(error,error_detail:sys):
