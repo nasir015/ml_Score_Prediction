@@ -54,6 +54,6 @@ class DataIngestion:
         
         
 
-if __name__ == "__main__":
+'''if __name__ == "__main__":
     data_ingestion = DataIngestion()
-    data_ingestion.initial_data_ingestion()
+    data_ingestion.initial_data_ingestion()'''
