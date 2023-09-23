@@ -33,7 +33,7 @@ def logger(file_name , massage):
     format_1 =  lg.Formatter("[%(asctime)s] %(lineno)d %(name)s - %(levelname)s - %(message)s")
     console_log.setFormatter(format_1)
     lg.getLogger('').addHandler(console_log)
-    logger1 = lg.getLogger('Nasir')
+    logger1 = lg.getLogger("Nasir")
     logger1.info(massage)
 
 
