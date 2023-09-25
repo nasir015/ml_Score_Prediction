@@ -6,9 +6,12 @@ from exception import CustomException
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from dataclasses import dataclass
-path = 'logs\data_ingestion.txt'
+from data_transformation import DataTransformation,DataTransformationConfig
 
-logger(path,'data_ingestion.py file is started executing')
+
+path_ing = 'E:\\Neoron\\Programming_Practice\\Machine_Learning_Project\\ml_Score_Prediction\\logs\\data_ingestion.txt'
+
+logger(path_ing,'data_ingestion.py file is started executing')
 @dataclass
 
 class DataIngestionConfig:
@@ -24,36 +27,38 @@ class DataIngestion:
         
         
     def initial_data_ingestion(self):
-        logger(path,'Data ingestion is started')
+        logger(path_ing,'Data ingestion is started')
         try:
             df = pd.read_csv("E:\\Neoron\\Programming_Practice\\Machine_Learning_Project\\ml_Score_Prediction\\Data\\stud.csv")
-            logger(path,'Data ingestion is completed')
+            logger(path_ing,'Data ingestion is completed')
             
             os.makedirs('artifacts',exist_ok=True)
             
             df.to_csv(self.ingestion_config.raw_data_path,index=False,header=True)
-            logger(path,'Raw data is saved in artifacts folder')
+            logger(path_ing,'Raw data is saved in artifacts folder')
             
             train_set,test_set = train_test_split(df,test_size=0.2,random_state=42)
             
             train_set.to_csv(self.ingestion_config.train_data_path,index=False,header=True)
-            logger(path,'Train data is saved in artifacts folder')
+            logger(path_ing,'Train data is saved in artifacts folder')
             
             test_set.to_csv(self.ingestion_config.test_data_path,index=False,header=True)
-            logger(path,'Test data is saved in artifacts folder')
+            logger(path_ing,'Test data is saved in artifacts folder')
             
             return(
-                self.ingestion_config.raw_data_path,
                 self.ingestion_config.train_data_path,
                 self.ingestion_config.test_data_path
             )
 
         except Exception as e:
-            logger(path,'Error occured while reading the data')
+            logger(path_ing,'Error occured while reading the data')
             raise CustomException(e,sys)
         
         
 
-'''if __name__ == "__main__":
+if __name__ == "__main__":
     data_ingestion = DataIngestion()
-    data_ingestion.initial_data_ingestion()'''
+    train_df, test_df = data_ingestion.initial_data_ingestion()
+    
+    data_transformation = DataTransformation()
+    data_transformation.initiate_data_transformation(train_df,test_df)
