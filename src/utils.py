@@ -9,7 +9,7 @@ from exception import CustomException
 import pickle
 from sklearn.metrics import r2_score
 from sklearn.model_selection import GridSearchCV
-from exception import CustomException
+
 path_utils = "E:\\Neoron\\Programming_Practice\\Machine_Learning_Project\\ml_Score_Prediction\\logs\\utils.txt"
 
 
@@ -29,7 +29,10 @@ def save_object(file_path, obj):
     logger(path_utils,'save_object function is completed')
 
 
+
+
 logger(path_utils,'evaluate_models function is started')
+
 def evaluate_models(X_train, y_train,X_test,y_test,models,param):
     try:
         report = {}

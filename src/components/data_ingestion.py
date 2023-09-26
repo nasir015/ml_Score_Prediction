@@ -7,7 +7,8 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from dataclasses import dataclass
 from data_transformation import DataTransformation,DataTransformationConfig
-
+from model_trainer import ModelTrainer,ModelTrainerConfig
+from utils import save_object,evaluate_models
 
 path_ing = 'E:\\Neoron\\Programming_Practice\\Machine_Learning_Project\\ml_Score_Prediction\\logs\\data_ingestion.txt'
 
@@ -61,4 +62,11 @@ if __name__ == "__main__":
     train_df, test_df = data_ingestion.initial_data_ingestion()
     
     data_transformation = DataTransformation()
-    data_transformation.initiate_data_transformation(train_df,test_df)
+    train_arr,test_arr,link = data_transformation.initiate_data_transformation(train_df,test_df)
+    
+    
+    
+    
+    model_trainer = ModelTrainer()
+    model_trainer.initiate_model_trainer(train_arr,test_arr)
+    

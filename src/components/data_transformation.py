@@ -139,6 +139,6 @@ class DataTransformation:
             
 
 
-if __name__ == "__main__":
+'''if __name__ == "__main__":
     a = DataTransformation()
-    a.initiate_data_transformation('E:\\Neoron\\Programming_Practice\\Machine_Learning_Project\\ml_Score_Prediction\\artifacts\\train.csv','E:\\Neoron\\Programming_Practice\\Machine_Learning_Project\\ml_Score_Prediction\\artifacts\\test.csv')
+    a.initiate_data_transformation('E:\\Neoron\\Programming_Practice\\Machine_Learning_Project\\ml_Score_Prediction\\artifacts\\train.csv','E:\\Neoron\\Programming_Practice\\Machine_Learning_Project\\ml_Score_Prediction\\artifacts\\test.csv')'''

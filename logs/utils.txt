@@ -62,3 +62,816 @@
 [2023-09-25 10:32:45,271] 37 Nasir - INFO - Test data is concatenated
 [2023-09-25 10:32:45,284] 37 Nasir - INFO - save_object function is completed
 [2023-09-25 10:32:45,297] 37 Nasir - INFO - save_object function is called
+[2023-09-25 11:07:35,295] 37 Nasir - INFO - save_object function is started
+[2023-09-25 11:07:35,295] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-25 11:07:35,304] 37 Nasir - INFO - load_object function is started
+[2023-09-25 11:07:35,306] 37 Nasir - INFO - load_object function is completed
+[2023-09-25 11:07:35,306] 37 Nasir - INFO - Importing all libraries
+[2023-09-25 11:07:35,312] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-25 11:07:35,316] 37 Nasir - INFO - DataTransformation class started
+[2023-09-25 11:07:35,320] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-09-25 11:07:35,327] 37 Nasir - INFO - Data ingestion is started
+[2023-09-25 11:07:35,350] 37 Nasir - INFO - Data ingestion is completed
+[2023-09-25 11:07:35,366] 37 Nasir - INFO - Raw data is saved in artifacts folder
+[2023-09-25 11:07:35,405] 37 Nasir - INFO - Train data is saved in artifacts folder
+[2023-09-25 11:07:35,421] 37 Nasir - INFO - Test data is saved in artifacts folder
+[2023-09-25 11:07:35,436] 37 Nasir - INFO - initiate_data_transformation method of DataTransformation class started
+[2023-09-25 11:07:35,485] 37 Nasir - INFO - Train data is read
+[2023-09-25 11:07:35,528] 37 Nasir - INFO - Test data is read
+[2023-09-25 11:07:35,536] 37 Nasir - INFO - Numerical and categorical features are defined
+[2023-09-25 11:07:35,547] 37 Nasir - INFO - num_pipeline is defined
+[2023-09-25 11:07:35,556] 37 Nasir - INFO - cat_pipeline is defined
+[2023-09-25 11:07:35,567] 37 Nasir - INFO - Column transformation is defined
+[2023-09-25 11:07:35,576] 37 Nasir - INFO - DataTransformation class ended
+[2023-09-25 11:07:35,589] 37 Nasir - INFO - preprocessing_obj is called
+[2023-09-25 11:07:35,602] 37 Nasir - INFO - Target column is defined
+[2023-09-25 11:07:35,615] 37 Nasir - INFO - Numerical column is defined
+[2023-09-25 11:07:35,635] 37 Nasir - INFO - Input and target features are defined for train data
+[2023-09-25 11:07:35,655] 37 Nasir - INFO - Input and target features are defined for test data
+[2023-09-25 11:07:35,724] 37 Nasir - INFO - Input feature train data is transformed
+[2023-09-25 11:07:35,768] 37 Nasir - INFO - Input feature test data is transformed
+[2023-09-25 11:07:35,791] 37 Nasir - INFO - Train data is concatenated
+[2023-09-25 11:07:35,808] 37 Nasir - INFO - Test data is concatenated
+[2023-09-25 11:07:35,831] 37 Nasir - INFO - save_object function is completed
+[2023-09-25 11:07:35,871] 37 Nasir - INFO - save_object function is called
+[2023-09-25 22:49:48,252] 37 Nasir - INFO - save_object function is started
+[2023-09-25 22:49:48,252] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-25 22:49:48,252] 37 Nasir - INFO - load_object function is started
+[2023-09-25 22:49:48,252] 37 Nasir - INFO - load_object function is completed
+[2023-09-25 22:49:48,252] 37 Nasir - INFO - Importing all libraries
+[2023-09-25 22:49:48,252] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-25 22:49:48,263] 37 Nasir - INFO - DataTransformation class started
+[2023-09-25 22:50:38,167] 37 Nasir - INFO - save_object function is started
+[2023-09-25 22:50:38,167] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-25 22:50:38,167] 37 Nasir - INFO - load_object function is started
+[2023-09-25 22:50:38,167] 37 Nasir - INFO - load_object function is completed
+[2023-09-25 22:50:38,167] 37 Nasir - INFO - Importing all libraries
+[2023-09-25 22:50:38,176] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-25 22:50:38,179] 37 Nasir - INFO - DataTransformation class started
+[2023-09-25 22:53:46,407] 37 Nasir - INFO - save_object function is started
+[2023-09-25 22:53:46,407] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-25 22:53:46,409] 37 Nasir - INFO - load_object function is started
+[2023-09-25 22:53:46,409] 37 Nasir - INFO - load_object function is completed
+[2023-09-25 22:54:46,731] 37 Nasir - INFO - save_object function is started
+[2023-09-25 22:54:46,731] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-25 22:54:46,731] 37 Nasir - INFO - load_object function is started
+[2023-09-25 22:54:46,731] 37 Nasir - INFO - load_object function is completed
+[2023-09-25 22:54:46,746] 37 Nasir - INFO - Importing all libraries
+[2023-09-25 22:54:46,746] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-25 22:54:46,752] 37 Nasir - INFO - DataTransformation class started
+[2023-09-25 22:55:57,123] 37 Nasir - INFO - save_object function is started
+[2023-09-25 22:55:57,123] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-25 22:55:57,123] 37 Nasir - INFO - load_object function is started
+[2023-09-25 22:55:57,123] 37 Nasir - INFO - load_object function is completed
+[2023-09-25 22:55:57,123] 37 Nasir - INFO - Importing all libraries
+[2023-09-25 22:55:57,123] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-25 22:55:57,138] 37 Nasir - INFO - DataTransformation class started
+[2023-09-25 22:58:38,073] 37 Nasir - INFO - save_object function is started
+[2023-09-25 22:58:38,073] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-25 22:58:38,073] 37 Nasir - INFO - load_object function is started
+[2023-09-25 22:58:38,073] 37 Nasir - INFO - load_object function is completed
+[2023-09-25 22:58:38,073] 37 Nasir - INFO - Importing all libraries
+[2023-09-25 22:58:38,073] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-25 22:58:38,080] 37 Nasir - INFO - DataTransformation class started
+[2023-09-25 23:00:44,308] 37 Nasir - INFO - save_object function is started
+[2023-09-25 23:00:44,308] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-25 23:00:44,308] 37 Nasir - INFO - load_object function is started
+[2023-09-25 23:00:44,308] 37 Nasir - INFO - load_object function is completed
+[2023-09-25 23:00:44,308] 37 Nasir - INFO - Importing all libraries
+[2023-09-25 23:00:44,317] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-25 23:00:44,319] 37 Nasir - INFO - DataTransformation class started
+[2023-09-25 23:00:45,294] 37 Nasir - INFO - Importing all libraries
+[2023-09-25 23:01:04,054] 37 Nasir - INFO - save_object function is started
+[2023-09-25 23:01:04,054] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-25 23:01:04,069] 37 Nasir - INFO - load_object function is started
+[2023-09-25 23:01:04,069] 37 Nasir - INFO - load_object function is completed
+[2023-09-25 23:01:04,069] 37 Nasir - INFO - Importing all libraries
+[2023-09-25 23:01:04,069] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-25 23:01:04,076] 37 Nasir - INFO - DataTransformation class started
+[2023-09-25 23:01:04,959] 37 Nasir - INFO - Importing all libraries
+[2023-09-25 23:01:04,959] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-09-25 23:01:04,975] 37 Nasir - INFO - Data ingestion is started
+[2023-09-25 23:01:05,098] 37 Nasir - INFO - Data ingestion is completed
+[2023-09-25 23:01:05,111] 37 Nasir - INFO - Raw data is saved in artifacts folder
+[2023-09-25 23:01:05,127] 37 Nasir - INFO - Train data is saved in artifacts folder
+[2023-09-25 23:01:05,136] 37 Nasir - INFO - Test data is saved in artifacts folder
+[2023-09-25 23:01:05,142] 37 Nasir - INFO - initiate_data_transformation method of DataTransformation class started
+[2023-09-25 23:01:05,168] 37 Nasir - INFO - Train data is read
+[2023-09-25 23:01:05,194] 37 Nasir - INFO - Test data is read
+[2023-09-25 23:01:05,202] 37 Nasir - INFO - Numerical and categorical features are defined
+[2023-09-25 23:01:05,209] 37 Nasir - INFO - num_pipeline is defined
+[2023-09-25 23:01:05,217] 37 Nasir - INFO - cat_pipeline is defined
+[2023-09-25 23:01:05,224] 37 Nasir - INFO - Column transformation is defined
+[2023-09-25 23:01:05,235] 37 Nasir - INFO - DataTransformation class ended
+[2023-09-25 23:01:05,244] 37 Nasir - INFO - preprocessing_obj is called
+[2023-09-25 23:01:05,251] 37 Nasir - INFO - Target column is defined
+[2023-09-25 23:01:05,261] 37 Nasir - INFO - Numerical column is defined
+[2023-09-25 23:01:05,273] 37 Nasir - INFO - Input and target features are defined for train data
+[2023-09-25 23:01:05,283] 37 Nasir - INFO - Input and target features are defined for test data
+[2023-09-25 23:01:05,325] 37 Nasir - INFO - Input feature train data is transformed
+[2023-09-25 23:01:05,349] 37 Nasir - INFO - Input feature test data is transformed
+[2023-09-25 23:01:05,360] 37 Nasir - INFO - Train data is concatenated
+[2023-09-25 23:01:05,372] 37 Nasir - INFO - Test data is concatenated
+[2023-09-25 23:01:05,386] 37 Nasir - INFO - save_object function is completed
+[2023-09-25 23:01:05,398] 37 Nasir - INFO - save_object function is called
+[2023-09-25 23:04:58,748] 37 Nasir - INFO - save_object function is started
+[2023-09-25 23:04:58,748] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-25 23:04:58,748] 37 Nasir - INFO - load_object function is started
+[2023-09-25 23:04:58,748] 37 Nasir - INFO - load_object function is completed
+[2023-09-25 23:04:58,763] 37 Nasir - INFO - Importing all libraries
+[2023-09-25 23:04:58,765] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-25 23:04:58,768] 37 Nasir - INFO - DataTransformation class started
+[2023-09-25 23:04:59,779] 37 Nasir - INFO - Importing all libraries
+[2023-09-25 23:04:59,779] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-09-25 23:04:59,790] 37 Nasir - INFO - Data ingestion is started
+[2023-09-25 23:04:59,806] 37 Nasir - INFO - Data ingestion is completed
+[2023-09-25 23:04:59,814] 37 Nasir - INFO - Raw data is saved in artifacts folder
+[2023-09-25 23:04:59,830] 37 Nasir - INFO - Train data is saved in artifacts folder
+[2023-09-25 23:04:59,847] 37 Nasir - INFO - Test data is saved in artifacts folder
+[2023-09-25 23:04:59,853] 37 Nasir - INFO - initiate_data_transformation method of DataTransformation class started
+[2023-09-25 23:04:59,881] 37 Nasir - INFO - Train data is read
+[2023-09-25 23:04:59,907] 37 Nasir - INFO - Test data is read
+[2023-09-25 23:04:59,915] 37 Nasir - INFO - Numerical and categorical features are defined
+[2023-09-25 23:04:59,922] 37 Nasir - INFO - num_pipeline is defined
+[2023-09-25 23:04:59,930] 37 Nasir - INFO - cat_pipeline is defined
+[2023-09-25 23:04:59,938] 37 Nasir - INFO - Column transformation is defined
+[2023-09-25 23:04:59,947] 37 Nasir - INFO - DataTransformation class ended
+[2023-09-25 23:04:59,956] 37 Nasir - INFO - preprocessing_obj is called
+[2023-09-25 23:04:59,963] 37 Nasir - INFO - Target column is defined
+[2023-09-25 23:04:59,980] 37 Nasir - INFO - Numerical column is defined
+[2023-09-25 23:04:59,997] 37 Nasir - INFO - Input and target features are defined for train data
+[2023-09-25 23:05:00,064] 37 Nasir - INFO - Input and target features are defined for test data
+[2023-09-25 23:05:00,131] 37 Nasir - INFO - Input feature train data is transformed
+[2023-09-25 23:05:00,176] 37 Nasir - INFO - Input feature test data is transformed
+[2023-09-25 23:05:00,200] 37 Nasir - INFO - Train data is concatenated
+[2023-09-25 23:05:00,210] 37 Nasir - INFO - Test data is concatenated
+[2023-09-25 23:05:00,225] 37 Nasir - INFO - save_object function is completed
+[2023-09-25 23:05:00,238] 37 Nasir - INFO - save_object function is called
+[2023-09-25 23:07:30,091] 37 Nasir - INFO - save_object function is started
+[2023-09-25 23:07:30,091] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-25 23:07:30,091] 37 Nasir - INFO - load_object function is started
+[2023-09-25 23:07:30,091] 37 Nasir - INFO - load_object function is completed
+[2023-09-25 23:07:30,107] 37 Nasir - INFO - Importing all libraries
+[2023-09-25 23:07:30,107] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-25 23:07:30,111] 37 Nasir - INFO - DataTransformation class started
+[2023-09-25 23:07:31,071] 37 Nasir - INFO - Importing all libraries
+[2023-09-25 23:07:31,087] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-09-25 23:07:31,091] 37 Nasir - INFO - Data ingestion is started
+[2023-09-25 23:07:31,099] 37 Nasir - INFO - Data ingestion is completed
+[2023-09-25 23:07:31,123] 37 Nasir - INFO - Raw data is saved in artifacts folder
+[2023-09-25 23:07:31,134] 37 Nasir - INFO - Train data is saved in artifacts folder
+[2023-09-25 23:07:31,144] 37 Nasir - INFO - Test data is saved in artifacts folder
+[2023-09-25 23:07:31,151] 37 Nasir - INFO - initiate_data_transformation method of DataTransformation class started
+[2023-09-25 23:07:31,173] 37 Nasir - INFO - Train data is read
+[2023-09-25 23:07:31,202] 37 Nasir - INFO - Test data is read
+[2023-09-25 23:07:31,207] 37 Nasir - INFO - Numerical and categorical features are defined
+[2023-09-25 23:07:31,215] 37 Nasir - INFO - num_pipeline is defined
+[2023-09-25 23:07:31,222] 37 Nasir - INFO - cat_pipeline is defined
+[2023-09-25 23:07:31,225] 37 Nasir - INFO - Column transformation is defined
+[2023-09-25 23:07:31,237] 37 Nasir - INFO - DataTransformation class ended
+[2023-09-25 23:07:31,245] 37 Nasir - INFO - preprocessing_obj is called
+[2023-09-25 23:07:31,251] 37 Nasir - INFO - Target column is defined
+[2023-09-25 23:07:31,263] 37 Nasir - INFO - Numerical column is defined
+[2023-09-25 23:07:31,273] 37 Nasir - INFO - Input and target features are defined for train data
+[2023-09-25 23:07:31,288] 37 Nasir - INFO - Input and target features are defined for test data
+[2023-09-25 23:07:31,322] 37 Nasir - INFO - Input feature train data is transformed
+[2023-09-25 23:07:31,345] 37 Nasir - INFO - Input feature test data is transformed
+[2023-09-25 23:07:31,355] 37 Nasir - INFO - Train data is concatenated
+[2023-09-25 23:07:31,370] 37 Nasir - INFO - Test data is concatenated
+[2023-09-25 23:07:31,382] 37 Nasir - INFO - save_object function is completed
+[2023-09-25 23:07:31,395] 37 Nasir - INFO - save_object function is called
+[2023-09-25 23:08:42,364] 37 Nasir - INFO - save_object function is started
+[2023-09-25 23:08:42,365] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-25 23:08:42,366] 37 Nasir - INFO - load_object function is started
+[2023-09-25 23:08:42,367] 37 Nasir - INFO - load_object function is completed
+[2023-09-25 23:08:42,368] 37 Nasir - INFO - Importing all libraries
+[2023-09-25 23:08:42,370] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-25 23:08:42,372] 37 Nasir - INFO - DataTransformation class started
+[2023-09-25 23:08:43,218] 37 Nasir - INFO - Importing all libraries
+[2023-09-25 23:08:43,233] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-09-25 23:08:43,238] 37 Nasir - INFO - Data ingestion is started
+[2023-09-25 23:08:43,254] 37 Nasir - INFO - Data ingestion is completed
+[2023-09-25 23:08:43,270] 37 Nasir - INFO - Raw data is saved in artifacts folder
+[2023-09-25 23:08:43,283] 37 Nasir - INFO - Train data is saved in artifacts folder
+[2023-09-25 23:08:43,292] 37 Nasir - INFO - Test data is saved in artifacts folder
+[2023-09-25 23:08:43,298] 37 Nasir - INFO - initiate_data_transformation method of DataTransformation class started
+[2023-09-25 23:08:43,323] 37 Nasir - INFO - Train data is read
+[2023-09-25 23:08:43,334] 37 Nasir - INFO - Test data is read
+[2023-09-25 23:08:43,355] 37 Nasir - INFO - Numerical and categorical features are defined
+[2023-09-25 23:08:43,360] 37 Nasir - INFO - num_pipeline is defined
+[2023-09-25 23:08:43,368] 37 Nasir - INFO - cat_pipeline is defined
+[2023-09-25 23:08:43,373] 37 Nasir - INFO - Column transformation is defined
+[2023-09-25 23:08:43,382] 37 Nasir - INFO - DataTransformation class ended
+[2023-09-25 23:08:43,390] 37 Nasir - INFO - preprocessing_obj is called
+[2023-09-25 23:08:43,398] 37 Nasir - INFO - Target column is defined
+[2023-09-25 23:08:43,406] 37 Nasir - INFO - Numerical column is defined
+[2023-09-25 23:08:43,419] 37 Nasir - INFO - Input and target features are defined for train data
+[2023-09-25 23:08:43,425] 37 Nasir - INFO - Input and target features are defined for test data
+[2023-09-25 23:08:43,460] 37 Nasir - INFO - Input feature train data is transformed
+[2023-09-25 23:08:43,484] 37 Nasir - INFO - Input feature test data is transformed
+[2023-09-25 23:08:43,500] 37 Nasir - INFO - Train data is concatenated
+[2023-09-25 23:08:43,512] 37 Nasir - INFO - Test data is concatenated
+[2023-09-25 23:08:43,525] 37 Nasir - INFO - save_object function is completed
+[2023-09-25 23:08:43,539] 37 Nasir - INFO - save_object function is called
+[2023-09-25 23:08:43,551] 37 Nasir - INFO - spliting train and test data
+[2023-09-25 23:08:43,567] 37 Nasir - INFO - train and test data spliting is done
+[2023-09-25 23:08:43,579] 37 Nasir - INFO - Model specification is started
+[2023-09-25 23:08:43,603] 37 Nasir - INFO - Model specification is done
+[2023-09-25 23:08:43,616] 37 Nasir - INFO - Exception occured in initiate_model_trainer method of ModelTrainer class
+[2023-09-25 23:09:51,985] 37 Nasir - INFO - save_object function is started
+[2023-09-25 23:09:51,985] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-25 23:09:51,985] 37 Nasir - INFO - load_object function is started
+[2023-09-25 23:09:51,985] 37 Nasir - INFO - load_object function is completed
+[2023-09-25 23:09:51,994] 37 Nasir - INFO - Importing all libraries
+[2023-09-25 23:09:51,996] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-25 23:09:51,998] 37 Nasir - INFO - DataTransformation class started
+[2023-09-25 23:09:52,897] 37 Nasir - INFO - Importing all libraries
+[2023-09-25 23:09:52,905] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-09-25 23:09:52,909] 37 Nasir - INFO - Data ingestion is started
+[2023-09-25 23:09:52,917] 37 Nasir - INFO - Data ingestion is completed
+[2023-09-25 23:09:52,938] 37 Nasir - INFO - Raw data is saved in artifacts folder
+[2023-09-25 23:09:52,952] 37 Nasir - INFO - Train data is saved in artifacts folder
+[2023-09-25 23:09:52,961] 37 Nasir - INFO - Test data is saved in artifacts folder
+[2023-09-25 23:09:52,968] 37 Nasir - INFO - initiate_data_transformation method of DataTransformation class started
+[2023-09-25 23:09:52,993] 37 Nasir - INFO - Train data is read
+[2023-09-25 23:09:53,016] 37 Nasir - INFO - Test data is read
+[2023-09-25 23:09:53,023] 37 Nasir - INFO - Numerical and categorical features are defined
+[2023-09-25 23:09:53,027] 37 Nasir - INFO - num_pipeline is defined
+[2023-09-25 23:09:53,035] 37 Nasir - INFO - cat_pipeline is defined
+[2023-09-25 23:09:53,042] 37 Nasir - INFO - Column transformation is defined
+[2023-09-25 23:09:53,049] 37 Nasir - INFO - DataTransformation class ended
+[2023-09-25 23:09:53,056] 37 Nasir - INFO - preprocessing_obj is called
+[2023-09-25 23:09:53,062] 37 Nasir - INFO - Target column is defined
+[2023-09-25 23:09:53,073] 37 Nasir - INFO - Numerical column is defined
+[2023-09-25 23:09:53,086] 37 Nasir - INFO - Input and target features are defined for train data
+[2023-09-25 23:09:53,099] 37 Nasir - INFO - Input and target features are defined for test data
+[2023-09-25 23:09:53,135] 37 Nasir - INFO - Input feature train data is transformed
+[2023-09-25 23:09:53,202] 37 Nasir - INFO - Input feature test data is transformed
+[2023-09-25 23:09:53,224] 37 Nasir - INFO - Train data is concatenated
+[2023-09-25 23:09:53,234] 37 Nasir - INFO - Test data is concatenated
+[2023-09-25 23:09:53,246] 37 Nasir - INFO - save_object function is completed
+[2023-09-25 23:09:53,258] 37 Nasir - INFO - save_object function is called
+[2023-09-26 00:13:37,712] 37 Nasir - INFO - save_object function is started
+[2023-09-26 00:13:37,712] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-26 00:13:37,712] 37 Nasir - INFO - load_object function is started
+[2023-09-26 00:13:37,712] 37 Nasir - INFO - load_object function is completed
+[2023-09-26 00:13:37,712] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:13:37,727] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-26 00:13:37,729] 37 Nasir - INFO - DataTransformation class started
+[2023-09-26 00:13:38,823] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:13:38,839] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-09-26 00:13:38,842] 37 Nasir - INFO - Data ingestion is started
+[2023-09-26 00:13:38,899] 37 Nasir - INFO - Data ingestion is completed
+[2023-09-26 00:13:38,925] 37 Nasir - INFO - Raw data is saved in artifacts folder
+[2023-09-26 00:13:38,942] 37 Nasir - INFO - Train data is saved in artifacts folder
+[2023-09-26 00:13:38,950] 37 Nasir - INFO - Test data is saved in artifacts folder
+[2023-09-26 00:13:38,958] 37 Nasir - INFO - initiate_data_transformation method of DataTransformation class started
+[2023-09-26 00:13:38,983] 37 Nasir - INFO - Train data is read
+[2023-09-26 00:13:39,000] 37 Nasir - INFO - Test data is read
+[2023-09-26 00:13:39,005] 37 Nasir - INFO - Numerical and categorical features are defined
+[2023-09-26 00:13:39,013] 37 Nasir - INFO - num_pipeline is defined
+[2023-09-26 00:13:39,024] 37 Nasir - INFO - cat_pipeline is defined
+[2023-09-26 00:13:39,024] 37 Nasir - INFO - Column transformation is defined
+[2023-09-26 00:13:39,033] 37 Nasir - INFO - DataTransformation class ended
+[2023-09-26 00:13:39,041] 37 Nasir - INFO - preprocessing_obj is called
+[2023-09-26 00:13:39,047] 37 Nasir - INFO - Target column is defined
+[2023-09-26 00:13:39,056] 37 Nasir - INFO - Numerical column is defined
+[2023-09-26 00:13:39,062] 37 Nasir - INFO - Input and target features are defined for train data
+[2023-09-26 00:13:39,070] 37 Nasir - INFO - Input and target features are defined for test data
+[2023-09-26 00:13:39,104] 37 Nasir - INFO - Input feature train data is transformed
+[2023-09-26 00:13:39,122] 37 Nasir - INFO - Input feature test data is transformed
+[2023-09-26 00:13:39,132] 37 Nasir - INFO - Train data is concatenated
+[2023-09-26 00:13:39,141] 37 Nasir - INFO - Test data is concatenated
+[2023-09-26 00:13:39,153] 37 Nasir - INFO - save_object function is completed
+[2023-09-26 00:13:39,167] 37 Nasir - INFO - save_object function is called
+[2023-09-26 00:15:32,415] 37 Nasir - INFO - save_object function is started
+[2023-09-26 00:15:32,415] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-26 00:15:32,415] 37 Nasir - INFO - load_object function is started
+[2023-09-26 00:15:32,415] 37 Nasir - INFO - load_object function is completed
+[2023-09-26 00:15:32,415] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:15:32,415] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-26 00:15:32,423] 37 Nasir - INFO - DataTransformation class started
+[2023-09-26 00:15:33,017] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:15:33,017] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-09-26 00:15:33,031] 37 Nasir - INFO - Data ingestion is started
+[2023-09-26 00:15:33,035] 37 Nasir - INFO - Data ingestion is completed
+[2023-09-26 00:15:33,058] 37 Nasir - INFO - Raw data is saved in artifacts folder
+[2023-09-26 00:15:33,067] 37 Nasir - INFO - Train data is saved in artifacts folder
+[2023-09-26 00:15:33,072] 37 Nasir - INFO - Test data is saved in artifacts folder
+[2023-09-26 00:15:33,077] 37 Nasir - INFO - initiate_data_transformation method of DataTransformation class started
+[2023-09-26 00:15:33,085] 37 Nasir - INFO - Train data is read
+[2023-09-26 00:15:33,145] 37 Nasir - INFO - Test data is read
+[2023-09-26 00:15:33,153] 37 Nasir - INFO - Numerical and categorical features are defined
+[2023-09-26 00:15:33,161] 37 Nasir - INFO - num_pipeline is defined
+[2023-09-26 00:15:33,169] 37 Nasir - INFO - cat_pipeline is defined
+[2023-09-26 00:15:33,177] 37 Nasir - INFO - Column transformation is defined
+[2023-09-26 00:15:33,185] 37 Nasir - INFO - DataTransformation class ended
+[2023-09-26 00:15:33,193] 37 Nasir - INFO - preprocessing_obj is called
+[2023-09-26 00:15:33,202] 37 Nasir - INFO - Target column is defined
+[2023-09-26 00:15:33,207] 37 Nasir - INFO - Numerical column is defined
+[2023-09-26 00:15:33,212] 37 Nasir - INFO - Input and target features are defined for train data
+[2023-09-26 00:15:33,226] 37 Nasir - INFO - Input and target features are defined for test data
+[2023-09-26 00:15:33,254] 37 Nasir - INFO - Input feature train data is transformed
+[2023-09-26 00:15:33,275] 37 Nasir - INFO - Input feature test data is transformed
+[2023-09-26 00:15:33,285] 37 Nasir - INFO - Train data is concatenated
+[2023-09-26 00:15:33,298] 37 Nasir - INFO - Test data is concatenated
+[2023-09-26 00:15:33,307] 37 Nasir - INFO - save_object function is completed
+[2023-09-26 00:15:33,321] 37 Nasir - INFO - save_object function is called
+[2023-09-26 00:17:21,694] 37 Nasir - INFO - save_object function is started
+[2023-09-26 00:17:21,694] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-26 00:17:21,694] 37 Nasir - INFO - load_object function is started
+[2023-09-26 00:17:21,694] 37 Nasir - INFO - load_object function is completed
+[2023-09-26 00:17:21,694] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:17:21,694] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-26 00:17:21,694] 37 Nasir - INFO - DataTransformation class started
+[2023-09-26 00:17:22,244] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:17:22,244] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-09-26 00:17:22,244] 37 Nasir - INFO - Data ingestion is started
+[2023-09-26 00:17:22,261] 37 Nasir - INFO - Data ingestion is completed
+[2023-09-26 00:17:22,273] 37 Nasir - INFO - Raw data is saved in artifacts folder
+[2023-09-26 00:17:22,292] 37 Nasir - INFO - Train data is saved in artifacts folder
+[2023-09-26 00:17:22,298] 37 Nasir - INFO - Test data is saved in artifacts folder
+[2023-09-26 00:17:22,301] 37 Nasir - INFO - initiate_data_transformation method of DataTransformation class started
+[2023-09-26 00:17:22,325] 37 Nasir - INFO - Train data is read
+[2023-09-26 00:17:22,339] 37 Nasir - INFO - Test data is read
+[2023-09-26 00:17:22,344] 37 Nasir - INFO - Numerical and categorical features are defined
+[2023-09-26 00:17:22,351] 37 Nasir - INFO - num_pipeline is defined
+[2023-09-26 00:17:22,361] 37 Nasir - INFO - cat_pipeline is defined
+[2023-09-26 00:17:22,364] 37 Nasir - INFO - Column transformation is defined
+[2023-09-26 00:17:22,373] 37 Nasir - INFO - DataTransformation class ended
+[2023-09-26 00:17:22,375] 37 Nasir - INFO - preprocessing_obj is called
+[2023-09-26 00:17:22,384] 37 Nasir - INFO - Target column is defined
+[2023-09-26 00:17:22,390] 37 Nasir - INFO - Numerical column is defined
+[2023-09-26 00:17:22,395] 37 Nasir - INFO - Input and target features are defined for train data
+[2023-09-26 00:17:22,406] 37 Nasir - INFO - Input and target features are defined for test data
+[2023-09-26 00:17:22,424] 37 Nasir - INFO - Input feature train data is transformed
+[2023-09-26 00:17:22,443] 37 Nasir - INFO - Input feature test data is transformed
+[2023-09-26 00:17:22,456] 37 Nasir - INFO - Train data is concatenated
+[2023-09-26 00:17:22,463] 37 Nasir - INFO - Test data is concatenated
+[2023-09-26 00:17:22,473] 37 Nasir - INFO - save_object function is completed
+[2023-09-26 00:17:22,478] 37 Nasir - INFO - save_object function is called
+[2023-09-26 00:17:38,950] 37 Nasir - INFO - save_object function is started
+[2023-09-26 00:17:38,950] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-26 00:17:38,950] 37 Nasir - INFO - load_object function is started
+[2023-09-26 00:17:38,950] 37 Nasir - INFO - load_object function is completed
+[2023-09-26 00:17:38,950] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:17:38,950] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-26 00:17:38,950] 37 Nasir - INFO - DataTransformation class started
+[2023-09-26 00:17:39,481] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:17:39,481] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-09-26 00:17:39,491] 37 Nasir - INFO - Data ingestion is started
+[2023-09-26 00:17:39,501] 37 Nasir - INFO - Data ingestion is completed
+[2023-09-26 00:17:39,509] 37 Nasir - INFO - Raw data is saved in artifacts folder
+[2023-09-26 00:17:39,526] 37 Nasir - INFO - Train data is saved in artifacts folder
+[2023-09-26 00:17:39,539] 37 Nasir - INFO - Test data is saved in artifacts folder
+[2023-09-26 00:17:39,541] 37 Nasir - INFO - initiate_data_transformation method of DataTransformation class started
+[2023-09-26 00:17:39,570] 37 Nasir - INFO - Train data is read
+[2023-09-26 00:17:39,590] 37 Nasir - INFO - Test data is read
+[2023-09-26 00:17:39,596] 37 Nasir - INFO - Numerical and categorical features are defined
+[2023-09-26 00:17:39,604] 37 Nasir - INFO - num_pipeline is defined
+[2023-09-26 00:17:39,612] 37 Nasir - INFO - cat_pipeline is defined
+[2023-09-26 00:17:39,618] 37 Nasir - INFO - Column transformation is defined
+[2023-09-26 00:17:39,626] 37 Nasir - INFO - DataTransformation class ended
+[2023-09-26 00:17:39,632] 37 Nasir - INFO - preprocessing_obj is called
+[2023-09-26 00:17:39,639] 37 Nasir - INFO - Target column is defined
+[2023-09-26 00:17:39,643] 37 Nasir - INFO - Numerical column is defined
+[2023-09-26 00:17:39,648] 37 Nasir - INFO - Input and target features are defined for train data
+[2023-09-26 00:17:39,651] 37 Nasir - INFO - Input and target features are defined for test data
+[2023-09-26 00:17:39,681] 37 Nasir - INFO - Input feature train data is transformed
+[2023-09-26 00:17:39,688] 37 Nasir - INFO - Input feature test data is transformed
+[2023-09-26 00:17:39,696] 37 Nasir - INFO - Train data is concatenated
+[2023-09-26 00:17:39,706] 37 Nasir - INFO - Test data is concatenated
+[2023-09-26 00:17:39,712] 37 Nasir - INFO - save_object function is completed
+[2023-09-26 00:17:39,717] 37 Nasir - INFO - save_object function is called
+[2023-09-26 00:17:53,520] 37 Nasir - INFO - save_object function is started
+[2023-09-26 00:17:53,520] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-26 00:17:53,520] 37 Nasir - INFO - load_object function is started
+[2023-09-26 00:17:53,520] 37 Nasir - INFO - load_object function is completed
+[2023-09-26 00:17:53,520] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:17:53,520] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-26 00:17:53,520] 37 Nasir - INFO - DataTransformation class started
+[2023-09-26 00:17:54,051] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:17:54,051] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-09-26 00:17:54,051] 37 Nasir - INFO - Data ingestion is started
+[2023-09-26 00:17:54,063] 37 Nasir - INFO - Data ingestion is completed
+[2023-09-26 00:17:54,070] 37 Nasir - INFO - Raw data is saved in artifacts folder
+[2023-09-26 00:17:54,084] 37 Nasir - INFO - Train data is saved in artifacts folder
+[2023-09-26 00:17:54,089] 37 Nasir - INFO - Test data is saved in artifacts folder
+[2023-09-26 00:17:54,094] 37 Nasir - INFO - initiate_data_transformation method of DataTransformation class started
+[2023-09-26 00:17:54,104] 37 Nasir - INFO - Train data is read
+[2023-09-26 00:17:54,121] 37 Nasir - INFO - Test data is read
+[2023-09-26 00:17:54,126] 37 Nasir - INFO - Numerical and categorical features are defined
+[2023-09-26 00:17:54,131] 37 Nasir - INFO - num_pipeline is defined
+[2023-09-26 00:17:54,135] 37 Nasir - INFO - cat_pipeline is defined
+[2023-09-26 00:17:54,144] 37 Nasir - INFO - Column transformation is defined
+[2023-09-26 00:17:54,147] 37 Nasir - INFO - DataTransformation class ended
+[2023-09-26 00:17:54,156] 37 Nasir - INFO - preprocessing_obj is called
+[2023-09-26 00:17:54,162] 37 Nasir - INFO - Target column is defined
+[2023-09-26 00:17:54,167] 37 Nasir - INFO - Numerical column is defined
+[2023-09-26 00:17:54,177] 37 Nasir - INFO - Input and target features are defined for train data
+[2023-09-26 00:17:54,182] 37 Nasir - INFO - Input and target features are defined for test data
+[2023-09-26 00:17:54,218] 37 Nasir - INFO - Input feature train data is transformed
+[2023-09-26 00:17:54,228] 37 Nasir - INFO - Input feature test data is transformed
+[2023-09-26 00:17:54,242] 37 Nasir - INFO - Train data is concatenated
+[2023-09-26 00:17:54,252] 37 Nasir - INFO - Test data is concatenated
+[2023-09-26 00:17:54,256] 37 Nasir - INFO - save_object function is completed
+[2023-09-26 00:17:54,265] 37 Nasir - INFO - save_object function is called
+[2023-09-26 00:18:05,041] 37 Nasir - INFO - save_object function is started
+[2023-09-26 00:18:05,041] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-26 00:18:05,041] 37 Nasir - INFO - load_object function is started
+[2023-09-26 00:18:05,041] 37 Nasir - INFO - load_object function is completed
+[2023-09-26 00:18:05,049] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:18:05,049] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-26 00:18:05,051] 37 Nasir - INFO - DataTransformation class started
+[2023-09-26 00:18:05,567] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:18:05,583] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-09-26 00:18:05,583] 37 Nasir - INFO - Data ingestion is started
+[2023-09-26 00:18:05,588] 37 Nasir - INFO - Data ingestion is completed
+[2023-09-26 00:18:05,602] 37 Nasir - INFO - Raw data is saved in artifacts folder
+[2023-09-26 00:18:05,610] 37 Nasir - INFO - Train data is saved in artifacts folder
+[2023-09-26 00:18:05,613] 37 Nasir - INFO - Test data is saved in artifacts folder
+[2023-09-26 00:18:05,622] 37 Nasir - INFO - initiate_data_transformation method of DataTransformation class started
+[2023-09-26 00:18:05,632] 37 Nasir - INFO - Train data is read
+[2023-09-26 00:18:05,648] 37 Nasir - INFO - Test data is read
+[2023-09-26 00:18:05,657] 37 Nasir - INFO - Numerical and categorical features are defined
+[2023-09-26 00:18:05,658] 37 Nasir - INFO - num_pipeline is defined
+[2023-09-26 00:18:05,663] 37 Nasir - INFO - cat_pipeline is defined
+[2023-09-26 00:18:05,674] 37 Nasir - INFO - Column transformation is defined
+[2023-09-26 00:18:05,678] 37 Nasir - INFO - DataTransformation class ended
+[2023-09-26 00:18:05,686] 37 Nasir - INFO - preprocessing_obj is called
+[2023-09-26 00:18:05,694] 37 Nasir - INFO - Target column is defined
+[2023-09-26 00:18:05,706] 37 Nasir - INFO - Numerical column is defined
+[2023-09-26 00:18:05,708] 37 Nasir - INFO - Input and target features are defined for train data
+[2023-09-26 00:18:05,718] 37 Nasir - INFO - Input and target features are defined for test data
+[2023-09-26 00:18:05,744] 37 Nasir - INFO - Input feature train data is transformed
+[2023-09-26 00:18:05,759] 37 Nasir - INFO - Input feature test data is transformed
+[2023-09-26 00:18:05,763] 37 Nasir - INFO - Train data is concatenated
+[2023-09-26 00:18:05,778] 37 Nasir - INFO - Test data is concatenated
+[2023-09-26 00:18:05,783] 37 Nasir - INFO - save_object function is completed
+[2023-09-26 00:18:05,789] 37 Nasir - INFO - save_object function is called
+[2023-09-26 00:18:50,872] 37 Nasir - INFO - save_object function is started
+[2023-09-26 00:18:50,872] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-26 00:18:50,872] 37 Nasir - INFO - load_object function is started
+[2023-09-26 00:18:50,872] 37 Nasir - INFO - load_object function is completed
+[2023-09-26 00:18:50,872] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:18:50,872] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-26 00:18:50,881] 37 Nasir - INFO - DataTransformation class started
+[2023-09-26 00:18:51,518] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:18:51,526] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-09-26 00:18:51,526] 37 Nasir - INFO - Data ingestion is started
+[2023-09-26 00:18:51,539] 37 Nasir - INFO - Data ingestion is completed
+[2023-09-26 00:18:51,549] 37 Nasir - INFO - Raw data is saved in artifacts folder
+[2023-09-26 00:18:51,553] 37 Nasir - INFO - Train data is saved in artifacts folder
+[2023-09-26 00:18:51,561] 37 Nasir - INFO - Test data is saved in artifacts folder
+[2023-09-26 00:18:51,568] 37 Nasir - INFO - initiate_data_transformation method of DataTransformation class started
+[2023-09-26 00:18:51,585] 37 Nasir - INFO - Train data is read
+[2023-09-26 00:18:51,602] 37 Nasir - INFO - Test data is read
+[2023-09-26 00:18:51,610] 37 Nasir - INFO - Numerical and categorical features are defined
+[2023-09-26 00:18:51,613] 37 Nasir - INFO - num_pipeline is defined
+[2023-09-26 00:18:51,618] 37 Nasir - INFO - cat_pipeline is defined
+[2023-09-26 00:18:51,623] 37 Nasir - INFO - Column transformation is defined
+[2023-09-26 00:18:51,628] 37 Nasir - INFO - DataTransformation class ended
+[2023-09-26 00:18:51,635] 37 Nasir - INFO - preprocessing_obj is called
+[2023-09-26 00:18:51,643] 37 Nasir - INFO - Target column is defined
+[2023-09-26 00:18:51,652] 37 Nasir - INFO - Numerical column is defined
+[2023-09-26 00:18:51,660] 37 Nasir - INFO - Input and target features are defined for train data
+[2023-09-26 00:18:51,675] 37 Nasir - INFO - Input and target features are defined for test data
+[2023-09-26 00:18:51,690] 37 Nasir - INFO - Input feature train data is transformed
+[2023-09-26 00:18:51,711] 37 Nasir - INFO - Input feature test data is transformed
+[2023-09-26 00:18:51,724] 37 Nasir - INFO - Train data is concatenated
+[2023-09-26 00:18:51,733] 37 Nasir - INFO - Test data is concatenated
+[2023-09-26 00:18:51,748] 37 Nasir - INFO - save_object function is completed
+[2023-09-26 00:18:51,758] 37 Nasir - INFO - save_object function is called
+[2023-09-26 00:19:09,058] 37 Nasir - INFO - save_object function is started
+[2023-09-26 00:19:09,058] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-26 00:19:09,058] 37 Nasir - INFO - load_object function is started
+[2023-09-26 00:19:09,058] 37 Nasir - INFO - load_object function is completed
+[2023-09-26 00:19:09,058] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:19:09,058] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-26 00:19:09,058] 37 Nasir - INFO - DataTransformation class started
+[2023-09-26 00:19:09,591] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:19:09,591] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-09-26 00:19:09,591] 37 Nasir - INFO - Data ingestion is started
+[2023-09-26 00:19:09,603] 37 Nasir - INFO - Data ingestion is completed
+[2023-09-26 00:19:09,610] 37 Nasir - INFO - Raw data is saved in artifacts folder
+[2023-09-26 00:19:09,626] 37 Nasir - INFO - Train data is saved in artifacts folder
+[2023-09-26 00:19:09,632] 37 Nasir - INFO - Test data is saved in artifacts folder
+[2023-09-26 00:19:09,638] 37 Nasir - INFO - initiate_data_transformation method of DataTransformation class started
+[2023-09-26 00:19:09,652] 37 Nasir - INFO - Train data is read
+[2023-09-26 00:19:09,668] 37 Nasir - INFO - Test data is read
+[2023-09-26 00:19:09,676] 37 Nasir - INFO - Numerical and categorical features are defined
+[2023-09-26 00:19:09,681] 37 Nasir - INFO - num_pipeline is defined
+[2023-09-26 00:19:09,687] 37 Nasir - INFO - cat_pipeline is defined
+[2023-09-26 00:19:09,696] 37 Nasir - INFO - Column transformation is defined
+[2023-09-26 00:19:09,696] 37 Nasir - INFO - DataTransformation class ended
+[2023-09-26 00:19:09,704] 37 Nasir - INFO - preprocessing_obj is called
+[2023-09-26 00:19:09,712] 37 Nasir - INFO - Target column is defined
+[2023-09-26 00:19:09,728] 37 Nasir - INFO - Numerical column is defined
+[2023-09-26 00:19:09,732] 37 Nasir - INFO - Input and target features are defined for train data
+[2023-09-26 00:19:09,737] 37 Nasir - INFO - Input and target features are defined for test data
+[2023-09-26 00:19:09,760] 37 Nasir - INFO - Input feature train data is transformed
+[2023-09-26 00:19:09,779] 37 Nasir - INFO - Input feature test data is transformed
+[2023-09-26 00:19:09,787] 37 Nasir - INFO - Train data is concatenated
+[2023-09-26 00:19:09,799] 37 Nasir - INFO - Test data is concatenated
+[2023-09-26 00:19:09,812] 37 Nasir - INFO - save_object function is completed
+[2023-09-26 00:19:09,820] 37 Nasir - INFO - save_object function is called
+[2023-09-26 00:19:09,828] 37 Nasir - INFO - spliting train and test data
+[2023-09-26 00:19:09,844] 37 Nasir - INFO - train and test data spliting is done
+[2023-09-26 00:19:09,853] 37 Nasir - INFO - Model specification is started
+[2023-09-26 00:19:09,869] 37 Nasir - INFO - Model specification is done
+[2023-09-26 00:19:09,877] 37 Nasir - INFO - Exception occured in initiate_model_trainer method of ModelTrainer class
+[2023-09-26 00:20:32,597] 37 Nasir - INFO - save_object function is started
+[2023-09-26 00:20:32,597] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-26 00:20:32,597] 37 Nasir - INFO - load_object function is started
+[2023-09-26 00:20:32,597] 37 Nasir - INFO - load_object function is completed
+[2023-09-26 00:20:32,597] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:20:42,767] 37 Nasir - INFO - save_object function is started
+[2023-09-26 00:20:42,767] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-26 00:20:42,767] 37 Nasir - INFO - load_object function is started
+[2023-09-26 00:20:42,767] 37 Nasir - INFO - load_object function is completed
+[2023-09-26 00:20:42,767] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:20:42,767] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-26 00:20:42,778] 37 Nasir - INFO - DataTransformation class started
+[2023-09-26 00:20:43,289] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:20:43,289] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-09-26 00:20:43,289] 37 Nasir - INFO - Data ingestion is started
+[2023-09-26 00:20:43,305] 37 Nasir - INFO - Data ingestion is completed
+[2023-09-26 00:20:43,308] 37 Nasir - INFO - Raw data is saved in artifacts folder
+[2023-09-26 00:20:43,320] 37 Nasir - INFO - Train data is saved in artifacts folder
+[2023-09-26 00:20:43,333] 37 Nasir - INFO - Test data is saved in artifacts folder
+[2023-09-26 00:20:43,337] 37 Nasir - INFO - initiate_data_transformation method of DataTransformation class started
+[2023-09-26 00:20:43,351] 37 Nasir - INFO - Train data is read
+[2023-09-26 00:20:43,370] 37 Nasir - INFO - Test data is read
+[2023-09-26 00:20:43,375] 37 Nasir - INFO - Numerical and categorical features are defined
+[2023-09-26 00:20:43,382] 37 Nasir - INFO - num_pipeline is defined
+[2023-09-26 00:20:43,388] 37 Nasir - INFO - cat_pipeline is defined
+[2023-09-26 00:20:43,395] 37 Nasir - INFO - Column transformation is defined
+[2023-09-26 00:20:43,395] 37 Nasir - INFO - DataTransformation class ended
+[2023-09-26 00:20:43,403] 37 Nasir - INFO - preprocessing_obj is called
+[2023-09-26 00:20:43,411] 37 Nasir - INFO - Target column is defined
+[2023-09-26 00:20:43,420] 37 Nasir - INFO - Numerical column is defined
+[2023-09-26 00:20:43,432] 37 Nasir - INFO - Input and target features are defined for train data
+[2023-09-26 00:20:43,440] 37 Nasir - INFO - Input and target features are defined for test data
+[2023-09-26 00:20:43,454] 37 Nasir - INFO - Input feature train data is transformed
+[2023-09-26 00:20:43,472] 37 Nasir - INFO - Input feature test data is transformed
+[2023-09-26 00:20:43,489] 37 Nasir - INFO - Train data is concatenated
+[2023-09-26 00:20:43,504] 37 Nasir - INFO - Test data is concatenated
+[2023-09-26 00:20:43,514] 37 Nasir - INFO - save_object function is completed
+[2023-09-26 00:20:43,523] 37 Nasir - INFO - save_object function is called
+[2023-09-26 00:20:43,533] 37 Nasir - INFO - spliting train and test data
+[2023-09-26 00:20:43,544] 37 Nasir - INFO - train and test data spliting is done
+[2023-09-26 00:20:43,556] 37 Nasir - INFO - Model specification is started
+[2023-09-26 00:20:43,568] 37 Nasir - INFO - Model specification is done
+[2023-09-26 00:20:43,587] 37 Nasir - INFO - Exception occured in initiate_model_trainer method of ModelTrainer class
+[2023-09-26 00:24:26,852] 37 Nasir - INFO - save_object function is started
+[2023-09-26 00:24:26,852] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-26 00:24:26,852] 37 Nasir - INFO - load_object function is started
+[2023-09-26 00:24:26,852] 37 Nasir - INFO - load_object function is completed
+[2023-09-26 00:24:26,852] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:24:26,852] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-26 00:24:26,852] 37 Nasir - INFO - DataTransformation class started
+[2023-09-26 00:24:27,431] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:24:27,431] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-09-26 00:24:27,431] 37 Nasir - INFO - Data ingestion is started
+[2023-09-26 00:24:27,439] 37 Nasir - INFO - Data ingestion is completed
+[2023-09-26 00:24:27,453] 37 Nasir - INFO - Raw data is saved in artifacts folder
+[2023-09-26 00:24:27,461] 37 Nasir - INFO - Train data is saved in artifacts folder
+[2023-09-26 00:24:27,470] 37 Nasir - INFO - Test data is saved in artifacts folder
+[2023-09-26 00:24:27,478] 37 Nasir - INFO - initiate_data_transformation method of DataTransformation class started
+[2023-09-26 00:24:27,493] 37 Nasir - INFO - Train data is read
+[2023-09-26 00:24:27,510] 37 Nasir - INFO - Test data is read
+[2023-09-26 00:24:27,516] 37 Nasir - INFO - Numerical and categorical features are defined
+[2023-09-26 00:24:27,524] 37 Nasir - INFO - num_pipeline is defined
+[2023-09-26 00:24:27,532] 37 Nasir - INFO - cat_pipeline is defined
+[2023-09-26 00:24:27,537] 37 Nasir - INFO - Column transformation is defined
+[2023-09-26 00:24:27,546] 37 Nasir - INFO - DataTransformation class ended
+[2023-09-26 00:24:27,553] 37 Nasir - INFO - preprocessing_obj is called
+[2023-09-26 00:24:27,562] 37 Nasir - INFO - Target column is defined
+[2023-09-26 00:24:27,562] 37 Nasir - INFO - Numerical column is defined
+[2023-09-26 00:24:27,578] 37 Nasir - INFO - Input and target features are defined for train data
+[2023-09-26 00:24:27,586] 37 Nasir - INFO - Input and target features are defined for test data
+[2023-09-26 00:24:27,610] 37 Nasir - INFO - Input feature train data is transformed
+[2023-09-26 00:24:27,632] 37 Nasir - INFO - Input feature test data is transformed
+[2023-09-26 00:24:27,640] 37 Nasir - INFO - Train data is concatenated
+[2023-09-26 00:24:27,656] 37 Nasir - INFO - Test data is concatenated
+[2023-09-26 00:24:27,664] 37 Nasir - INFO - save_object function is completed
+[2023-09-26 00:24:27,680] 37 Nasir - INFO - save_object function is called
+[2023-09-26 00:24:27,695] 37 Nasir - INFO - spliting train and test data
+[2023-09-26 00:24:27,703] 37 Nasir - INFO - train and test data spliting is done
+[2023-09-26 00:24:27,722] 37 Nasir - INFO - Model specification is started
+[2023-09-26 00:24:27,737] 37 Nasir - INFO - Model specification is done
+[2023-09-26 00:24:27,755] 37 Nasir - INFO - Exception occured in initiate_model_trainer method of ModelTrainer class
+[2023-09-26 00:39:20,438] 37 Nasir - INFO - save_object function is started
+[2023-09-26 00:39:20,438] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-26 00:39:20,438] 37 Nasir - INFO - load_object function is started
+[2023-09-26 00:39:20,438] 37 Nasir - INFO - load_object function is completed
+[2023-09-26 00:39:20,438] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:39:20,438] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-26 00:39:20,438] 37 Nasir - INFO - DataTransformation class started
+[2023-09-26 00:39:21,979] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:39:21,983] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-09-26 00:39:21,987] 37 Nasir - INFO - Data ingestion is started
+[2023-09-26 00:39:22,097] 37 Nasir - INFO - Data ingestion is completed
+[2023-09-26 00:39:22,113] 37 Nasir - INFO - Raw data is saved in artifacts folder
+[2023-09-26 00:39:22,130] 37 Nasir - INFO - Train data is saved in artifacts folder
+[2023-09-26 00:39:22,138] 37 Nasir - INFO - Test data is saved in artifacts folder
+[2023-09-26 00:39:22,145] 37 Nasir - INFO - initiate_data_transformation method of DataTransformation class started
+[2023-09-26 00:39:22,177] 37 Nasir - INFO - Train data is read
+[2023-09-26 00:39:22,206] 37 Nasir - INFO - Test data is read
+[2023-09-26 00:39:22,273] 37 Nasir - INFO - Numerical and categorical features are defined
+[2023-09-26 00:39:22,283] 37 Nasir - INFO - num_pipeline is defined
+[2023-09-26 00:39:22,306] 37 Nasir - INFO - cat_pipeline is defined
+[2023-09-26 00:39:22,315] 37 Nasir - INFO - Column transformation is defined
+[2023-09-26 00:39:22,324] 37 Nasir - INFO - DataTransformation class ended
+[2023-09-26 00:39:22,338] 37 Nasir - INFO - preprocessing_obj is called
+[2023-09-26 00:39:22,349] 37 Nasir - INFO - Target column is defined
+[2023-09-26 00:39:22,361] 37 Nasir - INFO - Numerical column is defined
+[2023-09-26 00:39:22,377] 37 Nasir - INFO - Input and target features are defined for train data
+[2023-09-26 00:39:22,390] 37 Nasir - INFO - Input and target features are defined for test data
+[2023-09-26 00:39:22,445] 37 Nasir - INFO - Input feature train data is transformed
+[2023-09-26 00:39:22,470] 37 Nasir - INFO - Input feature test data is transformed
+[2023-09-26 00:39:22,484] 37 Nasir - INFO - Train data is concatenated
+[2023-09-26 00:39:22,494] 37 Nasir - INFO - Test data is concatenated
+[2023-09-26 00:39:22,512] 37 Nasir - INFO - save_object function is completed
+[2023-09-26 00:39:22,523] 37 Nasir - INFO - save_object function is called
+[2023-09-26 00:39:22,538] 37 Nasir - INFO - spliting train and test data
+[2023-09-26 00:39:22,555] 37 Nasir - INFO - train and test data spliting is done
+[2023-09-26 00:39:22,573] 37 Nasir - INFO - Model specification is started
+[2023-09-26 00:39:22,595] 37 Nasir - INFO - Model specification is done
+[2023-09-26 00:39:22,618] 37 Nasir - INFO - Exception occured in initiate_model_trainer method of ModelTrainer class
+[2023-09-26 00:40:14,535] 37 Nasir - INFO - save_object function is started
+[2023-09-26 00:40:14,535] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-26 00:40:14,535] 37 Nasir - INFO - load_object function is started
+[2023-09-26 00:40:14,535] 37 Nasir - INFO - load_object function is completed
+[2023-09-26 00:40:14,535] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:40:14,552] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-26 00:40:14,554] 37 Nasir - INFO - DataTransformation class started
+[2023-09-26 00:40:15,520] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 00:40:15,535] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-09-26 00:40:15,542] 37 Nasir - INFO - Data ingestion is started
+[2023-09-26 00:40:15,558] 37 Nasir - INFO - Data ingestion is completed
+[2023-09-26 00:40:15,573] 37 Nasir - INFO - Raw data is saved in artifacts folder
+[2023-09-26 00:40:15,589] 37 Nasir - INFO - Train data is saved in artifacts folder
+[2023-09-26 00:40:15,599] 37 Nasir - INFO - Test data is saved in artifacts folder
+[2023-09-26 00:40:15,604] 37 Nasir - INFO - initiate_data_transformation method of DataTransformation class started
+[2023-09-26 00:40:15,628] 37 Nasir - INFO - Train data is read
+[2023-09-26 00:40:15,662] 37 Nasir - INFO - Test data is read
+[2023-09-26 00:40:15,669] 37 Nasir - INFO - Numerical and categorical features are defined
+[2023-09-26 00:40:15,675] 37 Nasir - INFO - num_pipeline is defined
+[2023-09-26 00:40:15,678] 37 Nasir - INFO - cat_pipeline is defined
+[2023-09-26 00:40:15,690] 37 Nasir - INFO - Column transformation is defined
+[2023-09-26 00:40:15,694] 37 Nasir - INFO - DataTransformation class ended
+[2023-09-26 00:40:15,708] 37 Nasir - INFO - preprocessing_obj is called
+[2023-09-26 00:40:15,719] 37 Nasir - INFO - Target column is defined
+[2023-09-26 00:40:15,728] 37 Nasir - INFO - Numerical column is defined
+[2023-09-26 00:40:15,737] 37 Nasir - INFO - Input and target features are defined for train data
+[2023-09-26 00:40:15,749] 37 Nasir - INFO - Input and target features are defined for test data
+[2023-09-26 00:40:15,786] 37 Nasir - INFO - Input feature train data is transformed
+[2023-09-26 00:40:15,811] 37 Nasir - INFO - Input feature test data is transformed
+[2023-09-26 00:40:15,819] 37 Nasir - INFO - Train data is concatenated
+[2023-09-26 00:40:15,834] 37 Nasir - INFO - Test data is concatenated
+[2023-09-26 00:40:15,847] 37 Nasir - INFO - save_object function is completed
+[2023-09-26 00:40:15,856] 37 Nasir - INFO - save_object function is called
+[2023-09-26 00:40:15,869] 37 Nasir - INFO - spliting train and test data
+[2023-09-26 00:40:15,883] 37 Nasir - INFO - train and test data spliting is done
+[2023-09-26 00:40:15,898] 37 Nasir - INFO - Model specification is started
+[2023-09-26 00:40:15,914] 37 Nasir - INFO - Model specification is done
+[2023-09-26 00:40:15,981] 37 Nasir - INFO - evaluate_models function is completed
+[2023-09-26 00:40:16,286] 37 Nasir - INFO - evaluate_models function is completed
+[2023-09-26 00:40:32,957] 37 Nasir - INFO - evaluate_models function is completed
+[2023-09-26 00:41:44,176] 37 Nasir - INFO - evaluate_models function is completed
+[2023-09-26 00:42:07,552] 37 Nasir - INFO - evaluate_models function is completed
+[2023-09-26 01:07:24,636] 37 Nasir - INFO - save_object function is started
+[2023-09-26 01:07:24,636] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-26 01:07:24,637] 37 Nasir - INFO - load_object function is started
+[2023-09-26 01:07:24,637] 37 Nasir - INFO - load_object function is completed
+[2023-09-26 01:07:24,638] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 01:07:24,640] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-26 01:07:24,642] 37 Nasir - INFO - DataTransformation class started
+[2023-09-26 01:07:25,681] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 01:07:25,681] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-09-26 01:07:25,695] 37 Nasir - INFO - Data ingestion is started
+[2023-09-26 01:07:25,713] 37 Nasir - INFO - Data ingestion is completed
+[2023-09-26 01:07:25,730] 37 Nasir - INFO - Raw data is saved in artifacts folder
+[2023-09-26 01:07:25,746] 37 Nasir - INFO - Train data is saved in artifacts folder
+[2023-09-26 01:07:25,753] 37 Nasir - INFO - Test data is saved in artifacts folder
+[2023-09-26 01:07:25,753] 37 Nasir - INFO - initiate_data_transformation method of DataTransformation class started
+[2023-09-26 01:07:25,792] 37 Nasir - INFO - Train data is read
+[2023-09-26 01:07:25,815] 37 Nasir - INFO - Test data is read
+[2023-09-26 01:07:25,824] 37 Nasir - INFO - Numerical and categorical features are defined
+[2023-09-26 01:07:25,831] 37 Nasir - INFO - num_pipeline is defined
+[2023-09-26 01:07:25,840] 37 Nasir - INFO - cat_pipeline is defined
+[2023-09-26 01:07:25,847] 37 Nasir - INFO - Column transformation is defined
+[2023-09-26 01:07:25,856] 37 Nasir - INFO - DataTransformation class ended
+[2023-09-26 01:07:25,866] 37 Nasir - INFO - preprocessing_obj is called
+[2023-09-26 01:07:25,877] 37 Nasir - INFO - Target column is defined
+[2023-09-26 01:07:25,887] 37 Nasir - INFO - Numerical column is defined
+[2023-09-26 01:07:25,897] 37 Nasir - INFO - Input and target features are defined for train data
+[2023-09-26 01:07:25,908] 37 Nasir - INFO - Input and target features are defined for test data
+[2023-09-26 01:07:25,946] 37 Nasir - INFO - Input feature train data is transformed
+[2023-09-26 01:07:25,973] 37 Nasir - INFO - Input feature test data is transformed
+[2023-09-26 01:07:25,986] 37 Nasir - INFO - Train data is concatenated
+[2023-09-26 01:07:25,998] 37 Nasir - INFO - Test data is concatenated
+[2023-09-26 01:07:26,014] 37 Nasir - INFO - save_object function is completed
+[2023-09-26 01:07:26,030] 37 Nasir - INFO - save_object function is called
+[2023-09-26 01:07:26,048] 37 Nasir - INFO - spliting train and test data
+[2023-09-26 01:07:26,069] 37 Nasir - INFO - train and test data spliting is done
+[2023-09-26 01:07:26,091] 37 Nasir - INFO - Model specification is started
+[2023-09-26 01:07:26,110] 37 Nasir - INFO - Model specification is done
+[2023-09-26 01:07:26,224] 37 Nasir - INFO - evaluate_models function is completed
+[2023-09-26 01:07:26,596] 37 Nasir - INFO - evaluate_models function is completed
+[2023-09-26 01:07:46,882] 37 Nasir - INFO - evaluate_models function is completed
+[2023-09-26 01:08:55,453] 37 Nasir - INFO - evaluate_models function is completed
+[2023-09-26 01:09:18,253] 37 Nasir - INFO - evaluate_models function is completed
+[2023-09-26 12:30:37,631] 37 Nasir - INFO - save_object function is started
+[2023-09-26 12:30:37,631] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-26 12:30:37,631] 37 Nasir - INFO - load_object function is started
+[2023-09-26 12:30:37,631] 37 Nasir - INFO - load_object function is completed
+[2023-09-26 12:30:37,631] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 12:30:37,631] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-26 12:30:37,631] 37 Nasir - INFO - DataTransformation class started
+[2023-09-26 12:30:39,423] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 12:30:39,428] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-09-26 12:30:39,433] 37 Nasir - INFO - Data ingestion is started
+[2023-09-26 12:30:39,555] 37 Nasir - INFO - Data ingestion is completed
+[2023-09-26 12:30:39,579] 37 Nasir - INFO - Raw data is saved in artifacts folder
+[2023-09-26 12:30:39,601] 37 Nasir - INFO - Train data is saved in artifacts folder
+[2023-09-26 12:30:39,612] 37 Nasir - INFO - Test data is saved in artifacts folder
+[2023-09-26 12:30:39,619] 37 Nasir - INFO - initiate_data_transformation method of DataTransformation class started
+[2023-09-26 12:30:39,650] 37 Nasir - INFO - Train data is read
+[2023-09-26 12:30:39,683] 37 Nasir - INFO - Test data is read
+[2023-09-26 12:30:39,690] 37 Nasir - INFO - Numerical and categorical features are defined
+[2023-09-26 12:30:39,698] 37 Nasir - INFO - num_pipeline is defined
+[2023-09-26 12:30:39,706] 37 Nasir - INFO - cat_pipeline is defined
+[2023-09-26 12:30:39,714] 37 Nasir - INFO - Column transformation is defined
+[2023-09-26 12:30:39,724] 37 Nasir - INFO - DataTransformation class ended
+[2023-09-26 12:30:39,735] 37 Nasir - INFO - preprocessing_obj is called
+[2023-09-26 12:30:39,747] 37 Nasir - INFO - Target column is defined
+[2023-09-26 12:30:39,758] 37 Nasir - INFO - Numerical column is defined
+[2023-09-26 12:30:39,771] 37 Nasir - INFO - Input and target features are defined for train data
+[2023-09-26 12:30:39,783] 37 Nasir - INFO - Input and target features are defined for test data
+[2023-09-26 12:30:39,831] 37 Nasir - INFO - Input feature train data is transformed
+[2023-09-26 12:30:39,858] 37 Nasir - INFO - Input feature test data is transformed
+[2023-09-26 12:30:39,868] 37 Nasir - INFO - Train data is concatenated
+[2023-09-26 12:30:39,880] 37 Nasir - INFO - Test data is concatenated
+[2023-09-26 12:30:39,894] 37 Nasir - INFO - save_object function is completed
+[2023-09-26 12:30:39,908] 37 Nasir - INFO - save_object function is called
+[2023-09-26 12:30:39,918] 37 Nasir - INFO - spliting train and test data
+[2023-09-26 12:30:39,930] 37 Nasir - INFO - train and test data spliting is done
+[2023-09-26 12:30:39,942] 37 Nasir - INFO - Model specification is started
+[2023-09-26 12:30:39,955] 37 Nasir - INFO - Model specification is done
+[2023-09-26 12:30:40,012] 37 Nasir - INFO - evaluate_models function is completed
+[2023-09-26 12:30:51,877] 37 Nasir - INFO - evaluate_models function is completed
+[2023-09-26 12:30:51,951] 37 Nasir - INFO - To get the best model score from dictionary
+[2023-09-26 12:30:51,994] 37 Nasir - INFO - To get the best model name from dictionary
+[2023-09-26 12:30:52,018] 37 Nasir - INFO - best model is selected
+[2023-09-26 12:30:52,043] 37 Nasir - INFO - best model is trained
+[2023-09-26 12:30:52,131] 37 Nasir - INFO - Model score is less than 60
+[2023-09-26 12:30:52,163] 37 Nasir - INFO - Exception occured in initiate_model_trainer method of ModelTrainer class
+[2023-09-26 12:32:21,897] 37 Nasir - INFO - save_object function is started
+[2023-09-26 12:32:21,898] 37 Nasir - INFO - evaluate_models function is started
+[2023-09-26 12:32:21,899] 37 Nasir - INFO - load_object function is started
+[2023-09-26 12:32:21,901] 37 Nasir - INFO - load_object function is completed
+[2023-09-26 12:32:21,902] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 12:32:21,904] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-09-26 12:32:21,907] 37 Nasir - INFO - DataTransformation class started
+[2023-09-26 12:32:23,251] 37 Nasir - INFO - Importing all libraries
+[2023-09-26 12:32:23,254] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-09-26 12:32:23,261] 37 Nasir - INFO - Data ingestion is started
+[2023-09-26 12:32:23,281] 37 Nasir - INFO - Data ingestion is completed
+[2023-09-26 12:32:23,299] 37 Nasir - INFO - Raw data is saved in artifacts folder
+[2023-09-26 12:32:23,309] 37 Nasir - INFO - Train data is saved in artifacts folder
+[2023-09-26 12:32:23,326] 37 Nasir - INFO - Test data is saved in artifacts folder
+[2023-09-26 12:32:23,335] 37 Nasir - INFO - initiate_data_transformation method of DataTransformation class started
+[2023-09-26 12:32:23,364] 37 Nasir - INFO - Train data is read
+[2023-09-26 12:32:23,397] 37 Nasir - INFO - Test data is read
+[2023-09-26 12:32:23,407] 37 Nasir - INFO - Numerical and categorical features are defined
+[2023-09-26 12:32:23,478] 37 Nasir - INFO - num_pipeline is defined
+[2023-09-26 12:32:23,487] 37 Nasir - INFO - cat_pipeline is defined
+[2023-09-26 12:32:23,495] 37 Nasir - INFO - Column transformation is defined
+[2023-09-26 12:32:23,506] 37 Nasir - INFO - DataTransformation class ended
+[2023-09-26 12:32:23,515] 37 Nasir - INFO - preprocessing_obj is called
+[2023-09-26 12:32:23,526] 37 Nasir - INFO - Target column is defined
+[2023-09-26 12:32:23,534] 37 Nasir - INFO - Numerical column is defined
+[2023-09-26 12:32:23,549] 37 Nasir - INFO - Input and target features are defined for train data
+[2023-09-26 12:32:23,629] 37 Nasir - INFO - Input and target features are defined for test data
+[2023-09-26 12:32:23,689] 37 Nasir - INFO - Input feature train data is transformed
+[2023-09-26 12:32:23,717] 37 Nasir - INFO - Input feature test data is transformed
+[2023-09-26 12:32:23,730] 37 Nasir - INFO - Train data is concatenated
+[2023-09-26 12:32:23,747] 37 Nasir - INFO - Test data is concatenated
+[2023-09-26 12:32:23,762] 37 Nasir - INFO - save_object function is completed
+[2023-09-26 12:32:23,775] 37 Nasir - INFO - save_object function is called
+[2023-09-26 12:32:23,787] 37 Nasir - INFO - spliting train and test data
+[2023-09-26 12:32:23,799] 37 Nasir - INFO - train and test data spliting is done
+[2023-09-26 12:32:23,812] 37 Nasir - INFO - Model specification is started
+[2023-09-26 12:32:23,825] 37 Nasir - INFO - Model specification is done
+[2023-09-26 12:32:23,865] 37 Nasir - INFO - evaluate_models function is completed
+[2023-09-26 12:32:34,949] 37 Nasir - INFO - evaluate_models function is completed
+[2023-09-26 12:32:34,978] 37 Nasir - INFO - To get the best model score from dictionary
+[2023-09-26 12:32:34,998] 37 Nasir - INFO - To get the best model name from dictionary
+[2023-09-26 12:32:35,017] 37 Nasir - INFO - best model is selected
+[2023-09-26 12:32:35,040] 37 Nasir - INFO - best model is trained
+[2023-09-26 12:32:35,065] 37 Nasir - INFO - save_object function is completed
+[2023-09-26 12:32:35,083] 37 Nasir - INFO - Model is saved
+[2023-09-26 12:32:35,102] 37 Nasir - INFO - Model is predicted
+[2023-09-26 12:32:35,122] 37 Nasir - INFO - R2 score is calculated
