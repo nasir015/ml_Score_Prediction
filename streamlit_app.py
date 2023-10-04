@@ -8,14 +8,10 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from src.exception import CustomException
 from src.logger import logger
 from src.utils import load_object
-from dataclasses import dataclass
-from src.components.data_transformation import DataTransformation,DataTransformationConfig
-from src.components.model_trainer import ModelTrainer,ModelTrainerConfig
-from src.utils import save_object,evaluate_models
-from src.components.data_ingestion import DataIngestion,DataIngestionConfig
 
 
-st.title('''Score Prediction App''')
+
+st.title('''Mathematics Score Prediction App''')
 
 def user_input_features():
     

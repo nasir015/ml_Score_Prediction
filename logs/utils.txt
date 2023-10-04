@@ -1423,3 +1423,16 @@
 [2023-10-04 09:10:29,198] 37 Nasir - INFO - DataTransformation class started
 [2023-10-04 09:10:29,378] 37 Nasir - INFO - Importing all libraries
 [2023-10-04 09:10:29,564] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-10-04 09:34:45,367] 37 Nasir - INFO - save_object function is started
+[2023-10-04 09:34:45,367] 37 Nasir - INFO - evaluate_models function is started
+[2023-10-04 09:34:45,368] 37 Nasir - INFO - load_object function is started
+[2023-10-04 09:34:45,369] 37 Nasir - INFO - load_object function is completed
+[2023-10-04 09:34:45,637] 37 Nasir - INFO - save_object function is started
+[2023-10-04 09:34:45,637] 37 Nasir - INFO - evaluate_models function is started
+[2023-10-04 09:34:45,641] 37 Nasir - INFO - load_object function is started
+[2023-10-04 09:34:45,645] 37 Nasir - INFO - load_object function is completed
+[2023-10-04 09:34:45,649] 37 Nasir - INFO - Importing all libraries
+[2023-10-04 09:34:45,653] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-10-04 09:34:45,659] 37 Nasir - INFO - DataTransformation class started
+[2023-10-04 09:34:46,555] 37 Nasir - INFO - Importing all libraries
+[2023-10-04 09:34:46,562] 37 Nasir - INFO - data_ingestion.py file is started executing
