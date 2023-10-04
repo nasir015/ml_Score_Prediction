@@ -6,8 +6,8 @@ from exception import CustomException
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from dataclasses import dataclass
-from data_transformation import DataTransformation,DataTransformationConfig
-from model_trainer import ModelTrainer,ModelTrainerConfig
+from src.components.data_transformation import DataTransformation,DataTransformationConfig
+from src.components.model_trainer import ModelTrainer,ModelTrainerConfig
 from utils import save_object,evaluate_models
 
 path_ing = 'E:\\Neoron\\Programming_Practice\\Machine_Learning_Project\\ml_Score_Prediction\\logs\\data_ingestion.txt'
