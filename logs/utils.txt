@@ -1436,3 +1436,71 @@
 [2023-10-04 09:34:45,659] 37 Nasir - INFO - DataTransformation class started
 [2023-10-04 09:34:46,555] 37 Nasir - INFO - Importing all libraries
 [2023-10-04 09:34:46,562] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-10-04 09:35:12,419] 37 Nasir - INFO - save_object function is started
+[2023-10-04 09:35:12,420] 37 Nasir - INFO - evaluate_models function is started
+[2023-10-04 09:35:12,421] 37 Nasir - INFO - load_object function is started
+[2023-10-04 09:35:12,422] 37 Nasir - INFO - load_object function is completed
+[2023-10-04 09:35:12,573] 37 Nasir - INFO - save_object function is started
+[2023-10-04 09:35:12,573] 37 Nasir - INFO - evaluate_models function is started
+[2023-10-04 09:35:12,573] 37 Nasir - INFO - load_object function is started
+[2023-10-04 09:35:12,582] 37 Nasir - INFO - load_object function is completed
+[2023-10-04 09:35:12,585] 37 Nasir - INFO - Importing all libraries
+[2023-10-04 09:35:12,589] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-10-04 09:35:12,592] 37 Nasir - INFO - DataTransformation class started
+[2023-10-04 09:35:13,483] 37 Nasir - INFO - Importing all libraries
+[2023-10-04 09:35:13,483] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-10-04 09:40:53,747] 37 Nasir - INFO - save_object function is started
+[2023-10-04 09:40:53,753] 37 Nasir - INFO - evaluate_models function is started
+[2023-10-04 09:40:53,760] 37 Nasir - INFO - load_object function is started
+[2023-10-04 09:40:53,767] 37 Nasir - INFO - load_object function is completed
+[2023-10-04 09:40:53,777] 37 Nasir - INFO - Importing all libraries
+[2023-10-04 09:40:53,784] 37 Nasir - INFO - DataTransformationConfig class started
+[2023-10-04 09:40:53,793] 37 Nasir - INFO - DataTransformation class started
+[2023-10-04 09:40:53,803] 37 Nasir - INFO - Importing all libraries
+[2023-10-04 09:40:53,815] 37 Nasir - INFO - data_ingestion.py file is started executing
+[2023-10-04 09:40:53,823] 37 Nasir - INFO - Data ingestion is started
+[2023-10-04 09:40:53,842] 37 Nasir - INFO - Data ingestion is completed
+[2023-10-04 09:40:53,861] 37 Nasir - INFO - Raw data is saved in artifacts folder
+[2023-10-04 09:40:53,882] 37 Nasir - INFO - Train data is saved in artifacts folder
+[2023-10-04 09:40:53,951] 37 Nasir - INFO - Test data is saved in artifacts folder
+[2023-10-04 09:40:53,961] 37 Nasir - INFO - initiate_data_transformation method of DataTransformation class started
+[2023-10-04 09:40:53,989] 37 Nasir - INFO - Train data is read
+[2023-10-04 09:40:54,011] 37 Nasir - INFO - Test data is read
+[2023-10-04 09:40:54,018] 37 Nasir - INFO - Numerical and categorical features are defined
+[2023-10-04 09:40:54,027] 37 Nasir - INFO - num_pipeline is defined
+[2023-10-04 09:40:54,035] 37 Nasir - INFO - cat_pipeline is defined
+[2023-10-04 09:40:54,044] 37 Nasir - INFO - Column transformation is defined
+[2023-10-04 09:40:54,052] 37 Nasir - INFO - DataTransformation class ended
+[2023-10-04 09:40:54,062] 37 Nasir - INFO - preprocessing_obj is called
+[2023-10-04 09:40:54,070] 37 Nasir - INFO - Target column is defined
+[2023-10-04 09:40:54,081] 37 Nasir - INFO - Numerical column is defined
+[2023-10-04 09:40:54,093] 37 Nasir - INFO - Input and target features are defined for train data
+[2023-10-04 09:40:54,104] 37 Nasir - INFO - Input and target features are defined for test data
+[2023-10-04 09:40:54,137] 37 Nasir - INFO - Input feature train data is transformed
+[2023-10-04 09:40:54,158] 37 Nasir - INFO - Input feature test data is transformed
+[2023-10-04 09:40:54,172] 37 Nasir - INFO - Train data is concatenated
+[2023-10-04 09:40:54,187] 37 Nasir - INFO - Test data is concatenated
+[2023-10-04 09:40:54,211] 37 Nasir - INFO - save_object function is completed
+[2023-10-04 09:40:54,224] 37 Nasir - INFO - save_object function is called
+[2023-10-04 09:40:54,236] 37 Nasir - INFO - spliting train and test data
+[2023-10-04 09:40:54,249] 37 Nasir - INFO - train and test data spliting is done
+[2023-10-04 09:40:54,262] 37 Nasir - INFO - Model specification is started
+[2023-10-04 09:40:54,276] 37 Nasir - INFO - Model specification is done
+[2023-10-04 09:40:54,318] 37 Nasir - INFO - evaluate_models function is completed
+[2023-10-04 09:41:06,114] 37 Nasir - INFO - evaluate_models function is completed
+[2023-10-04 09:41:06,138] 37 Nasir - INFO - To get the best model score from dictionary
+[2023-10-04 09:41:06,162] 37 Nasir - INFO - To get the best model name from dictionary
+[2023-10-04 09:41:06,186] 37 Nasir - INFO - best model is selected
+[2023-10-04 09:41:06,209] 37 Nasir - INFO - best model is trained
+[2023-10-04 09:41:06,232] 37 Nasir - INFO - save_object function is completed
+[2023-10-04 09:41:06,254] 37 Nasir - INFO - Model is saved
+[2023-10-04 09:41:06,274] 37 Nasir - INFO - Model is predicted
+[2023-10-04 09:41:06,297] 37 Nasir - INFO - R2 score is calculated
+[2023-10-04 09:41:38,462] 37 Nasir - INFO - save_object function is started
+[2023-10-04 09:41:38,486] 37 Nasir - INFO - evaluate_models function is started
+[2023-10-04 09:41:38,514] 37 Nasir - INFO - load_object function is started
+[2023-10-04 09:41:38,536] 37 Nasir - INFO - load_object function is completed
+[2023-10-04 09:43:19,288] 37 Nasir - INFO - save_object function is started
+[2023-10-04 09:43:19,338] 37 Nasir - INFO - evaluate_models function is started
+[2023-10-04 09:43:19,364] 37 Nasir - INFO - load_object function is started
+[2023-10-04 09:43:19,391] 37 Nasir - INFO - load_object function is completed
