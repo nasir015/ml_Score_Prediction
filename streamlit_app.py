@@ -47,7 +47,7 @@ input_df = user_input_features()
 
 
 
-if st.button('Recommend'):
+if st.button('Prediction'):
     def predict(feature):
             
         try:

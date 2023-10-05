@@ -1,0 +1,13 @@
+README.md
+setup.py
+src/components/__init__.py
+src/components/data_ingestion.py
+src/components/data_transformation.py
+src/components/model_trainer.py
+src/mlProject.egg-info/PKG-INFO
+src/mlProject.egg-info/SOURCES.txt
+src/mlProject.egg-info/dependency_links.txt
+src/mlProject.egg-info/top_level.txt
+src/pipeline/__init__.py
+src/pipeline/predict_pipeline.py
+src/pipeline/train_pipeline.py

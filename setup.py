@@ -1,26 +1,30 @@
-from setuptools import find_packages, setup
-from typing import List
+
+import setuptools
+
+with open("README.md", "r", encoding="utf-8") as f:
+    long_description = f.read()
 
 
-HYPEN_E_DOT = '-e .'
-def get_requirments(file_path:str)->List[str]:
-    '''
-    This function will read the requirements.txt file and return a list of requirements
-    '''
-    with open(file_path) as file_obj:
-        requirements = file_obj.readlines()
-        requirements = [requirement.strip() for requirement in requirements]
+__version__ = "0.0.0"
 
-        if HYPEN_E_DOT in requirements:
-            requirements.remove(HYPEN_E_DOT)
-    
-    return requirements
+REPO_NAME = "ml_Score_Prediction"
+AUTHOR_USER_NAME = "nasir015"
+SRC_REPO = "mlProject"
+AUTHOR_EMAIL = "nasir1515@student.nstu.edu.bd"
 
-setup(
-    name = 'ml_project',
-    version= '0.0.1',
-    author= 'Nasir',
-    author_email= 'nasir1515@student.nstu.edu',
-    packages= find_packages(),
-    install_requires = get_requirments('requirments.txt')
+
+setuptools.setup(
+    name=SRC_REPO,
+    version=__version__,
+    author=AUTHOR_USER_NAME,
+    author_email=AUTHOR_EMAIL,
+    description="A small python package for ml app",
+    long_description=long_description,
+    long_description_content="text/markdown",
+    url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
+    project_urls={
+        "Bug Tracker": f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}/issues",
+    },
+    package_dir={"": "src"},
+    packages=setuptools.find_packages(where="src")
 )
